@@ -17,5 +17,7 @@
     <li> Applications of Complexity Analysis </li>
     <li> Linkedlist-1 </li>
     <li> Linkedlist-2 </li>
+    <li> Stack </li>
+    <li> Queues </li>
   </ol>
 </p1>
