@@ -16,5 +16,6 @@
      <p><li> Stack <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/tree/main/Stack">code</a></li></p>
      <p><li> Queues <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/tree/main/Queues">code</a></li></p>
       <p><li> Binary Tree-1 <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/tree/main/Binary%20Tree-1">code</a></li></p>
+      <p><li> Binary Tree-2 <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/tree/main/Binary%20Tree-2">code</a></li></p>
   </ol>
 </p1>
