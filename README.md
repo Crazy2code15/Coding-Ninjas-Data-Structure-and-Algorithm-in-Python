@@ -19,6 +19,8 @@
       <p><li> Binary Tree-2 <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Binary%20Tree-2/All%20code%20in%20one%20file.ipynb">code</a></li></p>
       <p><li> BST-1 <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/BST-1/All%20in%20one.ipynb">code</a></li></p>
       <p><li> BST-2 <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/BST-2/all%20in%20one.ipynb">code</a></li></p>
+      <p><li> Generic Tree <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Generic%20Tree/all%20in%20one.ipynb">code</a></li></p>
+      <p><li> Dictionaries/Maps <a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Dictionaries%20Maps/all%20in%20one.ipynb">code</a></li></p>
  
   </ol>
 </p1>
