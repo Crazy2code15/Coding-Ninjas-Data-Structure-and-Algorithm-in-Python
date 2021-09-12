@@ -23,6 +23,9 @@
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Dictionaries%20Maps/all%20in%20one.ipynb"> Dictionaries/Maps </a></li></p>
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Priority%20Queue-1/All%20in%20one.ipynb"> Priority Queues-1 </a></li></p>
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Priority%20Queues-2/all%20in%20one.ipynb"> Priority Queues-2 </a></li></p>
+      <p><li> Huffman Coding </li></p>
+      <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/DP-1.ipynb"> DP-1 </a></li></p>
+      <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/DP-2.ipynb"> DP-2 </a></li></p>
  
   </ol>
 </p1>
