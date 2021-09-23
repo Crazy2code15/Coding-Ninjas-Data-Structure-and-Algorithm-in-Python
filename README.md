@@ -27,6 +27,8 @@
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/DP-1.ipynb"> DP-1 </a></li></p>
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/DP-2.ipynb"> DP-2 </a></li></p>
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/tree/main/Recursion-3"> Recursion-3 </a></li></p>
+      <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Backtracking.ipynb"> Backtracking </a></li></p>
+      <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Graphs-1.ipynb"> Graphs-1 </a></li></p>
 
  
   </ol>
