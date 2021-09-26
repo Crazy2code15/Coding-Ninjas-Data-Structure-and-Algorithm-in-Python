@@ -30,6 +30,5 @@
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Backtracking.ipynb"> Backtracking </a></li></p>
       <p><li><a href="https://github.com/Crazy2code15/Coding-Ninjas-Data-Structure-and-Algorithm-in-Python/blob/main/Graphs-1.ipynb"> Graphs-1 </a></li></p>
 
- 
   </ol>
 </p1>
